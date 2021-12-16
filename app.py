@@ -1,8 +1,8 @@
 import pandas as pd #pip install pandas openpyxl
-import plotly as px
 import streamlit as st #pip install streamlit
 from PIL import Image
 import json
+import plotly.express as px
 
 st.set_page_config(page_title="Produksi Minyak",
                    page_icon="blackpink.png",
